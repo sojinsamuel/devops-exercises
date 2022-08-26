@@ -727,7 +727,7 @@ Hosted hypervisors and bare-metal hypervisors.
 </b></details>
 
 <details>
-<summary>What are the advantages and disadvantges of bare-metal hypervisor over a hosted hypervisor?</summary><br><b>
+<summary>What are the advantages and disadvantages of bare-metal hypervisor over a hosted hypervisor?</summary><br><b>
 
 Due to having its own drivers and a direct access to hardware components, a baremetal hypervisor will often have better performances along with stability and scalability.
 
@@ -4214,7 +4214,7 @@ While automation focuses on a task level, Orchestration is the process of automa
 </b></details>
 
 <details>
-<summary>What is a Debuggger and how it works?</summary><br><b>
+<summary>What is a Debugger and how it works?</summary><br><b>
 </b></details>
 
 <details>
